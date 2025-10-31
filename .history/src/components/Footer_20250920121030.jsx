@@ -1,0 +1,21 @@
+import React from 'react'
+import footerlogo from '.'
+
+const Footer = () => {
+  return (
+    <div className='bg-black w-full h-3/4'>
+
+      <img src={footerlogo} alt="" />
+
+
+
+
+
+
+
+
+    </div>
+  )
+}
+
+export default Footer
